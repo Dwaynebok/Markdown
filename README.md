@@ -42,5 +42,6 @@ I failed the first quarter of a class in middle school, so I made a fake report 
 
 ###### TD;DR
 
-###### Fantastic
+###### Always stay sharp
 
+[<<previous page](https://github.com/Beardificent/markdown-challenge)  Dwaynebok  [next page>>](https://github.com/EmmanuelTs/markdown-warm-up/blob/master/README.md)
