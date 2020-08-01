@@ -21,7 +21,6 @@
   <component name="ChangeListManager">
     <list default="true" id="999fb881-963e-4c43-9714-452abe7c76d7" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,7 +41,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Dream-Project/README.md" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -59,7 +58,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1596118066575</updated>
-      <workItem from="1596118069378" duration="15630000" />
+      <workItem from="1596118069378" duration="20411000" />
     </task>
     <servers />
   </component>
@@ -78,10 +77,14 @@
     </option>
   </component>
   <component name="WindowStateProjectService">
-    <state x="314" y="133" width="800" height="535" key="Vcs.Push.Dialog.v2" timestamp="1596185762500">
+    <state x="502" y="155" width="424" height="491" key="FileChooserDialogImpl" timestamp="1596203479908">
       <screen x="72" y="27" width="1294" height="741" />
     </state>
-    <state x="314" y="133" width="800" height="535" key="Vcs.Push.Dialog.v2/72.27.1294.741@72.27.1294.741" timestamp="1596185762500" />
+    <state x="502" y="155" width="424" height="491" key="FileChooserDialogImpl/72.27.1294.741@72.27.1294.741" timestamp="1596203479908" />
+    <state x="314" y="133" width="800" height="535" key="Vcs.Push.Dialog.v2" timestamp="1596187888703">
+      <screen x="72" y="27" width="1294" height="741" />
+    </state>
+    <state x="314" y="133" width="800" height="535" key="Vcs.Push.Dialog.v2/72.27.1294.741@72.27.1294.741" timestamp="1596187888703" />
     <state x="382" y="89" width="672" height="678" key="search.everywhere.popup" timestamp="1596171695434">
       <screen x="72" y="27" width="1294" height="741" />
     </state>
